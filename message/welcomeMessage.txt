@@ -1,0 +1,15 @@
+﻿
+
+Witaj [B][client_name][/B] na serwerze głosowym[COLOR=#00aa00] [B]TS-KAKTUS.pl[/B][/COLOR]
+Jest to twoje [client_totalconnections] połączenie z nami!
+Aktualnie online: [b][server_online][/b] osób
+Nasz uptime: [b][server_uptime][/b]
+
+[COLOR=#0055ff][B]Informacje o tobie:[/B][/COLOR]
+    [B]IP:[/B] [client_ip]
+    [B]UID:[/B] [uid]
+    [B]System:[/B] [client_platform]
+
+[COLOR=#0055ff][B]Przydatne linki:[/B][/COLOR]
+    [B]Strona internetowa:[/B] [url=http://social.ts-kaktus.pl]social.ts-kaktus.pl[/url]
+    [B]Grupa STEAM:[/B] [url=http://steamcommunity.com/groups/TSKAKTUS]steamcommunity.com/groups/TSKAKTUS[/url]

@@ -1,0 +1,5 @@
+﻿
+[b]Aktualne informacje:[/b]
+	• Stan użytkowników [online]/[total],
+	• Nasza strona example.com,
+	• Sklep z VIP shop.example.com

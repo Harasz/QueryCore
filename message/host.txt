@@ -1,0 +1,4 @@
+﻿Witaj na [b]TS-KAKTUS.pl[/b]!
+Aktualnie na serwerze jest [b][online][/b] użytkowników.
+Serwer działa od [b][uptime][/b].
+Udanych rozmów!
